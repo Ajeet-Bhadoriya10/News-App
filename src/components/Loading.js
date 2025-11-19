@@ -1,0 +1,15 @@
+
+import React, { Component } from 'react'
+import loading from '../Assets/Loading.gif';
+
+export class Loading extends Component {
+  render() {
+    return (
+      <div className='text-center'>
+        <img className='my-3' src={loading} alt='Loading'/>
+      </div>
+    )
+  }
+}
+
+export default Loading
