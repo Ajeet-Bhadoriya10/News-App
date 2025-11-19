@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# News-App
+This project is a feature-rich React application developed during my internship, combining powerful text utilities with a live news section fetched using NewsAPI. It helps users transform text efficiently and stay updated with real-time news categorized across multiple domains.
+>>>>>>> cb7631f6030f6fc8dcdce9a5a773f7d3944c9eaf
